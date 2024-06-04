@@ -1,0 +1,3 @@
+rootProject.name = 'auto5.2'
+include 'data'
+
